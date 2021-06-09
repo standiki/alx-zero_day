@@ -1,0 +1,3 @@
+#Rules for ignoring all files ending with (~)
+$cat .gitignore
+*~
